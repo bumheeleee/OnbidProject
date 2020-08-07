@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">OnbidProject</string>
+    <string name="title_activity_google_map__bum">Map</string>
 </resources>
